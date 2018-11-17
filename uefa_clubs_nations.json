@@ -1619,6 +1619,14 @@
       "nation_iso_code" : "KOS",
       "nation_name" : "Kosovo",
       "fifa_nation_rank" : "177"
+     }, {
+      "id" : "56",
+      "nation_assoc_rank" : "56",
+      "nation_flag" : "http://images.cafonline.com/Images/Get/?id=Countries\7297ab8f-6b45-4fe3-b440-d8dea5a4c858.png&width=40&height=20",
+      "nation_flag_large" : "http://images.cafonline.com/Images/Get/?id=Associations\e1627d80-3411-43a5-858d-2de40617cd38.png&width=71&height=96",
+      "nation_iso_code" : "EGP",
+      "nation_name" : "Egypt",
+      "fifa_nation_rank" : "59"
     }
   ]
   }
